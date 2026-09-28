@@ -1,1 +1,2 @@
 # Ramsey-Cass-Koopmans-model
+An economic growth model developed as part of the Ordinary Differential Equations course at the Faculty of Mathematics, University of Warsaw. The project uses a system of ordinary differential equations to analyze optimal consumption and capital accumulation, including the saddle-point equilibrium and its stable trajectory. Numerical simulations are performed using the Runge–Kutta method with backward time integration.
